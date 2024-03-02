@@ -1,0 +1,37 @@
+ BEGIN:VCALENDAR
+PRODID:-//Coursera//Learner Study Calendar 1.0//EN
+NAME:Coursera Study Calendar
+X-WR-CALNAME:Coursera Study Calendar
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20240205T031021Z
+DTSTART:20240205T223000
+DTEND:20240205T230000
+SUMMARY:Learning time - Tools for Data Science
+UID:oCBU5_VYEeeBQA7SG0nILA~2024-02-05T03:10:21.164731319~courseraorg
+DESCRIPTION:Course: Tools for Data Science\nhttps://www.coursera.org/lear
+ n/open-source-tools-for-data-science/home/welcome
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20240401T035959Z;BYDAY=MO
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240205T031021Z
+DTSTART:20240207T223000
+DTEND:20240207T230000
+SUMMARY:Learning time - Tools for Data Science
+UID:oCBU5_VYEeeBQA7SG0nILA~2024-02-05T03:10:21.191369013~courseraorg
+DESCRIPTION:Course: Tools for Data Science\nhttps://www.coursera.org/lear
+ n/open-source-tools-for-data-science/home/welcome
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20240401T035959Z;BYDAY=WE
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240205T031021Z
+DTSTART:20240209T223000
+DTEND:20240209T230000
+SUMMARY:Learning time - Tools for Data Science
+UID:oCBU5_VYEeeBQA7SG0nILA~2024-02-05T03:10:21.220817423~courseraorg
+DESCRIPTION:Course: Tools for Data Science\nhttps://www.coursera.org/lear
+ n/open-source-tools-for-data-science/home/welcome
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20240401T035959Z;BYDAY=FR
+END:VEVENT
+END:VCALENDAR
